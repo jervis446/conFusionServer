@@ -23,8 +23,8 @@ Then just clone and run:
 
 1. Clone the repo, and `cd` into it
 
-        git clone https://github.com/munikarmanish/coursera-nodejs-confusion
-        cd coursera-nodejs-confusion
+        git clone https://github.com/jervis446/conFusionServer
+        cd conFusionServer
 
 2. Initall npm dependencies
 
